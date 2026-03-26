@@ -66,7 +66,7 @@ const ministerios = [
   },
   {
     id: 'mujeres',
-    titulo: 'Ministerio de Mujeres',
+    titulo: 'Mujeres Vida',
     desc: 'Mujeres que se fortalecen en fe, se apoyan mutuamente y descubren su identidad y propósito en Dios.',
     icon: (
       <svg viewBox="0 0 40 40" fill="none" className="w-7 h-7">
@@ -99,7 +99,7 @@ const ministerios = [
   },
 ]
 
-export default function MinistriesSection() {
+export default function ActividadesSeccion() {
   return (
     <section id="ministerios" className="py-24 px-4 sm:px-6 lg:px-8 bg-white overflow-hidden">
       <div className="max-w-7xl mx-auto">

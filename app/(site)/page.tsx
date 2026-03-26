@@ -1,7 +1,7 @@
 import Link from 'next/link'
 import { MapPin, Clock, Users, Heart, ArrowRight, Music } from 'lucide-react'
 import IglesiaCarousel from '@/components/IglesiaCarousel'
-import MinistriesSection from '@/components/ActividadesSection'
+import ActividadesSeccion from '@/components/ActividadesSection'
 import { iglesiasMadre, iglesiasSede } from '@/lib/iglesias'
 import { createClient } from '@/lib/supabase/server'
 
@@ -312,7 +312,7 @@ export default async function Home() {
       {/* ══════════════════════════════════
           ACTIVIDADES
       ══════════════════════════════════ */}
-      <MinistriesSection />
+      <ActividadesSeccion />
 
       {/* ══════════════════════════════════
           CONECTÁ VIDA

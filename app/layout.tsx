@@ -3,7 +3,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: { default: 'Vida en Fe | San Luis', template: '%s | Vida en Fe' },
-  description: 'Iglesia Vida en Fe — Una iglesias, con templos en toda la provincia de San Luis, Argentina.',
+  description: 'Iglesia Vida en Fe — Nuestra misión es alcanzar cada rincón de la provincia de San Luis, llevando un mensaje de vida y fe a cada persona.',
   keywords: ['iglesia', 'San Luis', 'Vida en Fe', 'fe', 'comunidad', 'evangelio'],
   icons: {
     icon: '/favicon.ico',
