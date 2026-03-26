@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: 'Vida en Fe | San Luis',
-    description: 'Una iglesia, con templos en toda la provincia de San Luis, Argentina.',
+    description: 'Nuestra misión es alcanzar cada rincón de la provincia de San Luis, llevando un mensaje de vida y fe a cada persona.',
     locale: 'es_AR',
     type: 'website',
   },
